@@ -1,0 +1,26 @@
+# Compiled Python Files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter temp files
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Local config files
+.env
+
+# Database and raw data
+*.db
+*.sqlite3
+*.log
+
+# Outros
+.DS_Store
+*.bak
+*.tmp
+dailylog.txt
