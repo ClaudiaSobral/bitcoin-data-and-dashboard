@@ -1,4 +1,4 @@
-# Bitcoin Datapipeline and Daily Indicators Dashboard
+# Bitcoin Data pipeline and Daily Indicators Dashboard
 
 This project is a fully interactive visualization dashboard for analyzing Bitcoin's historical price behavior using daily indicators provided by [Coin Desk][https://developers.coindesk.com/documentation/data-api/index_cc_v1_historical_days].
 
